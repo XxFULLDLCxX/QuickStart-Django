@@ -1,8 +1,8 @@
 # QuickStart Django
 
 * ## Windows | Unix or MacOS:
-    + ### init commands in **Windows** with **`py`**.
-    + ### init commands on **Unix *or* MacOS** with **`python`**.
+    + ### start commands on **Windows** with **`py`**.
+    + ### start commands on **Unix *or* MacOS** with **`python`**.
 
 1. ## Creating Virtual Environments:
     font: [Python Venv](https://docs.python.org/3/tutorial/venv.html)
